@@ -233,7 +233,7 @@ Row 2 Data Column 1   |   Row 2 Data Column 2   |
 </table>
 ```
 
-![Output](1.jpg)
+![Output](https://raw.githubusercontent.com/anagh9/WebCheatSheet/master/1.JPG)
 
 ## Table with thead, tbody, tfoot, and caption
 
@@ -266,7 +266,7 @@ Row 2 Data Column 1   |   Row 2 Data Column 2   |
 </table>
 ```
 
-![Output](2.jpg)
+![Output](https://raw.githubusercontent.com/anagh9/WebCheatSheet/master/2.JPG)
 
 ## Comments
 
@@ -500,7 +500,7 @@ Select file to upload:
 </form>
 ```
 
-![Output](3.jpg)
+![Output](https://raw.githubusercontent.com/anagh9/WebCheatSheet/master/3.JPG)
 
 ## Media Elements
 
