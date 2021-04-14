@@ -265,7 +265,7 @@ Row 2 Data Column 1   |   Row 2 Data Column 2   |
 </table>
 ```
 
-![Output](2.jpg)
+![Output](./2.jpg)
 
 ## Comments
 
